@@ -5,6 +5,6 @@
 
 My session at PyCon India - 2020 for humans
 
-## [Slides](https://docs.google.com/presentation/d/1H3KwWbqBd-i9yTteZsJdkzVoY3U-eKI23oq91JO3zoI/edit?usp=sharing)
+## [Slides](https://docs.google.com/presentation/d/1vDShJsm3GSxOsV9ORZR2gBD3bQK0TewpaQ7fiOF5IG8/edit?usp=sharing)
 
 <img src = "https://github.com/akshaybahadur21/PyCon-2020/blob/main/0.png">
